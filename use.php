@@ -21,7 +21,7 @@ class Message {
                     'from' => "+19182057276", 
                     
                     //the message
-                    'body' => "Eninla, what are you doing?"
+                    'body' => "I am testing the twilio app"
                 )
             );
             return 8;
